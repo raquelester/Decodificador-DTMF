@@ -18,7 +18,12 @@ O DTMF, basicamente, é um sitema que juntas duas frequências sem relação har
  Observe no esquema no circuito abaixo:
  <p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/Test%20circuit.jpg" alt="" width="386" height="308" /></p>
  
- Toda vez que clicarmos em uma tecla determinada combinação de saída será acionada, como mostra a tabela verdade abaixo:
+ Toda vez que clicarmos em uma tecla, determinada combinação de saída será acionada e a partir disso, acionaremos as cargas desejadas.
+
+Observe a tabela verdade abaixo:
+ <p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/DTMF-Decoded-Frequency-Output-Table.png" alt="" width="372" height="336" /></p>
+ 
+ 
  
  
  
