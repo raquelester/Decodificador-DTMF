@@ -5,6 +5,10 @@ Nos primeiros telefones a discagem era feita através de um "disco" que gerava u
 
 O DTMF, basicamente, é um sitema que juntas duas frequências sem relação harmonica - uma alta e outra baixa - por tecla para enviar os dados. Essa tecnologia foi muito importante para o avanço da qualidade dos serviços de redes telefônicas, pois melhorou a qualidade das ligações. No sistema antigo a esse, os dados eram transmitidos por meio de uma única frequência por teclas, por isso, muitas vezes a pessoa reproduziu tal frequência, discando as teclas indesejadamente durante as ligações. Quando o sistema DTMF passou a ser usado, essa situação tornou-se praticamente impossivel, uma vez que reproduzir a combinação de duas frequencias distintas é muito improvável.
 
-As combinações de frequências de cada tecla são mostradas na figura abaixo
+As combinações de frequências de cada tecla são mostradas na figura abaixo:
+
+<p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/Tone%20Dialing.gif" alt="" width="400" height="300" /></p>
+<p>&nbsp;</p>
+
 
 # FUNCIONAMENTO
