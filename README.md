@@ -5,10 +5,12 @@ Nos primeiros telefones a discagem era feita através de um "disco" que gerava u
 
 O DTMF, basicamente, é um sitema que juntas duas frequências sem relação harmonica - uma alta e outra baixa - por tecla para enviar os dados. Essa tecnologia foi muito importante para o avanço da qualidade dos serviços de redes telefônicas, pois melhorou a qualidade das ligações. No sistema antigo a esse, os dados eram transmitidos por meio de uma única frequência por teclas, por isso, muitas vezes a pessoa reproduziu tal frequência, discando as teclas indesejadamente durante as ligações. Quando o sistema DTMF passou a ser usado, essa situação tornou-se praticamente impossivel, uma vez que reproduzir a combinação de duas frequencias distintas é muito improvável.
 
-As combinações de frequências de cada tecla são mostradas na figura abaixo:
-
-<p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/Tone%20Dialing.gif" alt="" width="400" height="300" /></p>
-<p>&nbsp;</p>
+ As combinações de frequências de cada tecla são mostradas na figura abaixo:
+<p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/Tone%20Dialing1.gif" alt="" width="300" height="303" /></p>
 
 
 # FUNCIONAMENTO
+
+ O projeto funcionará por meio de um circuito utilizando o decodificador DTMF em conjunto com o arduino. Esse circuito interligará um aparelho celular a um dispositivo eletrônico por meio da saída de áudio do fone de ouvido o celular.  Sempre que uma tecla é digitada no celular ou durante uma chamada o outro telefone que está em comunicação com o celular digita um número, este número é decodificado para um sinal que chamamos de DTMF, ou seja, duplo tom multi freqüência. 
+ 
+ 
