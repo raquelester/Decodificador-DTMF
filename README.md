@@ -23,6 +23,9 @@ O DTMF, basicamente, é um sitema que juntas duas frequências sem relação har
 Observe a tabela verdade abaixo:
  <p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/DTMF-Decoded-Frequency-Output-Table.png" alt="" width="372" height="336" /></p>
  
+# MONTAGEM
+
+
  
  
  
