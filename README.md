@@ -23,7 +23,19 @@ O DTMF, basicamente, é um sitema que juntas duas frequências sem relação har
 Observe a tabela verdade abaixo:
  <p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/DTMF-Decoded-Frequency-Output-Table.png" alt="" width="372" height="336" /></p>
  
-# MONTAGEM
+# Componentes
+
+1 - Circuito integrado HT9170B;
+1 - Arduino Uno, Nano ou Mega;
+1 - Cristal oscilador de 3.579545MHz ou um ressonador cerâmico de 3.58MHz;
+2 - Capacitores cerâmicos de 20pF para quem usar Cristal oscilador ou 39pF para que usar ressonador cerâmico;
+2 - Capacitores cerâmicos de 0.1uF;
+2 - Resistores de 100kΩ / 1/4W;
+1 - Resistores de 300kΩ / 1/4W;
+3 - Resistores de 220Ω / 1/4W;
+3 - Leds qualquer;
+1 - Conector P2 Mono ou Stereo;
+1 - Fonte de alimentação de 5VDC x 500mA.
 
 
  
