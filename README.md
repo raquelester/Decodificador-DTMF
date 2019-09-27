@@ -1,4 +1,7 @@
-# Decodificador-DTMF
+# Título do projeto
+Decodificador-DTMF
+
+# Descrição
 DTMF é a sigla em inglês de "Dual-Tone Multi-Frequency", os tons de duas freqüências utilizados na discagem dos telefones. 
 
 Nos primeiros telefones a discagem era feita através de um "disco" que gerava uma seqüência de pulsos na linha telefônica ("discagem decádica" ou "discagem usando sinalização decádica"). Ao se ocupar a linha, o "laço" ("loop") era fechado e, ao se efetuar a discagem, ocorriam aberturas periódicas deste "laço", tantas vezes quanto o número discado: para a discagem do 1, uma abertura, para a discagem do 2, duas aberturas, e assim sucessivamente até o 0 (zero) que, na verdade, significava 10 aberturas. Com o advento dos telefones com teclado, das centrais telefônicas mais modernas e com a disseminação dos filtros (primeiro os analógicos, depois os digitais), passou-se a utilizar a sinalização multifreqüencial, uma combinação de tons (os DTMFs vulgarmente conhecidos em inglês por touch tones) para discagem. A sinalização DTMF foi desenvolvida nos laboratórios Bell (Bell Labs) visando permitir a discagem DDD, que usa enlaces sem fio como os de micro-ondas e por satélite. 
@@ -23,6 +26,10 @@ O DTMF, basicamente, é um sitema que juntas duas frequências sem relação har
 Observe a tabela verdade abaixo:
  <p><img src="https://raw.githubusercontent.com/raquelester/Decodificador-DTMF/master/DTMF-Decoded-Frequency-Output-Table.png" alt="" width="372" height="336" /></p>
  
+ # Pré- requisitos
+ Para a realização do projeto, é ensencial a instalação da IDE do arduino pelo site http://www.arduino.cc/. 
+ # Arduino e Protoboard
+ Nos sites para a realização da simulação, não foi possível encontrar o bloco utilizado (HT9170b/D), mas se trata de uma conexão simples, onde as saídas D3, D2 , D1 e D0 (do circuito apresentado no funcionamento) irão para o arduino para acender as cargas.
 # Componentes
 
 1 - Circuito integrado HT9170B;
@@ -47,6 +54,7 @@ Observe a tabela verdade abaixo:
 
 1 - Fonte de alimentação de 5VDC x 500mA.
 
+#Créditos
 
  
  
