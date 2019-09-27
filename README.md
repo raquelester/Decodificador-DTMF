@@ -54,7 +54,9 @@ Observe a tabela verdade abaixo:
 
 1 - Fonte de alimentação de 5VDC x 500mA.
 
-#Créditos
+# Créditos
+Marlon Nardi
+
 
  
  
