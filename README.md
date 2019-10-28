@@ -13,8 +13,9 @@ O DTMF, basicamente, é um sitema que juntas duas frequências sem relação har
 
 
 # FUNCIONAMENTO
-
- O projeto funcionará por meio de um circuito utilizando o decodificador DTMF em conjunto com o arduino. Esse circuito interligará um aparelho celular a um dispositivo eletrônico por meio da saída de áudio do fone de ouvido o celular.  Sempre que uma tecla é digitada no celular ou durante uma chamada o outro telefone que está em comunicação com o celular digita um número, este número é decodificado para um sinal que chamamos de DTMF, ou seja, duplo tom multi freqüência. 
+ 
+ Com o intuito de ajudar as pessoas, o projeto possbilita que seus usuários consigam desligar ou ligar qualquer carga à longas distâncias e sem a necessidade do uso da internet.
+ Dessa forma, projeto funcionará por meio de um circuito utilizando o decodificador DTMF em conjunto com o arduino. Esse circuito interligará um aparelho celular a um dispositivo eletrônico por meio da saída de áudio do fone de ouvido o celular.  Sempre que uma tecla é digitada no celular ou durante uma chamada o outro telefone que está em comunicação com o celular digita um número, este número é decodificado para um sinal que chamamos de DTMF, ou seja, duplo tom multi freqüência. 
  
  O DTMF possui 4 entrados por onde entraram o tom da tecla digitada (VP, VN, GS e VREF) e 6 saídas (DV, D3, D2, D1, D0 e OE).
  
